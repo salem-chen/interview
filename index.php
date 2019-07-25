@@ -1,8 +1,5 @@
 <?php
-$num = 10;
-function multiply(){
-        $num = $num * 10;
-    }
-    multiply();
-    echo $num;
+
 ?>
+
+<script type='1.js'>alert(0)</script>
